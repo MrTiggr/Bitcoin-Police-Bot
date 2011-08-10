@@ -1,0 +1,8 @@
+C:\Users\Slasher\Documents\Visual Studio 2010\Projects\BPBot\BPBot\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Slasher\Documents\Visual Studio 2010\Projects\BPBot\BPBot\bin\Debug\BPBot.exe
+C:\Users\Slasher\Documents\Visual Studio 2010\Projects\BPBot\BPBot\bin\Debug\BPBot.pdb
+C:\Users\Slasher\Documents\Visual Studio 2010\Projects\BPBot\BPBot\bin\Debug\Meebey.SmartIrc4net.dll
+C:\Users\Slasher\Documents\Visual Studio 2010\Projects\BPBot\BPBot\obj\x86\Debug\BPBot.exe
+C:\Users\Slasher\Documents\Visual Studio 2010\Projects\BPBot\BPBot\obj\x86\Debug\BPBot.pdb
+C:\Users\Slasher\Documents\Visual Studio 2010\Projects\BPBot\BPBot\bin\Debug\Starksoft.Cryptography.OpenPGP.dll
+C:\Users\Slasher\Documents\Visual Studio 2010\Projects\BPBot\BPBot\bin\Debug\Starksoft.Cryptography.OpenPGP.xml
